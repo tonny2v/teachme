@@ -34,8 +34,8 @@ export default function TabNavigator() {
         tabBarActiveTintColor: '#0284c7', // sky-600
         tabBarInactiveTintColor: '#94a3b8', // slate-400
         tabBarLabelStyle: {
-          fontFamily: 'sans-serif-medium',
           fontSize: 12,
+          fontWeight: '500',
           marginTop: 4,
         },
       }}
